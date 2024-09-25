@@ -9,9 +9,9 @@ public class Conversao {
         System.out.println("Informe a quantidade em metros: ");
         float metros = scan.nextFloat();
 
-        float convercaoCm = metros *100;
+        float conversaoCm = metros *100;
 
-        System.out.println(metros+ " m ="+convercaoCm+"cm");
+        System.out.printf("%.2f m = %.2f cm%n", metros, conversaoCm);
         scan.close();
     }
 }
