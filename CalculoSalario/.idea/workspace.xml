@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4569714c-1207-4600-8317-ba178a7b5b47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoSalario.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConvercaoMetroParaCentimetro/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConvercaoMetroParaCentimetro/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConvercaoMetroParaCentimetro/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="4569714c-1207-4600-8317-ba178a7b5b47" name="Changes" comment="Exercicio calculo salario finalizado">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2024_21_49_[Changes]/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,22 +22,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Filipe-Candido"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Filipe-Candido&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Filipe-Candido/exercicios-logica-de-progracao-java.git",
-    "accountId": "34395893-5a6d-4e00-a54a-be7f86288055"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Filipe-Candido/exercicios-logica-de-progracao-java.git&quot;,
+    &quot;accountId&quot;: &quot;34395893-5a6d-4e00-a54a-be7f86288055&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mXYf2k5557HSxsCni7aCWJN3vZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,7 +51,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/exercicios-logica-de-progracao-java/ConversaoMetroParaCentimetro"
   }
 }]]></component>
   <component name="RunManager">
@@ -83,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727224489441</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicio calculo salario finalizado">
+      <option name="closed" value="true" />
+      <created>1727225341344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727225341344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicio calculo salario finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio calculo salario finalizado" />
   </component>
 </project>
