@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4569714c-1207-4600-8317-ba178a7b5b47" name="Changes" comment="Exercicio calculo salario finalizado">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_09_2024_21_49_[Changes]/shelved.patch" afterDir="false" />
+    <list default="true" id="4569714c-1207-4600-8317-ba178a7b5b47" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/../PesoIdeal/src/PesoIdeal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,17 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculoSalario.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/exercicios-logica-de-progracao-java/ConversaoMetroParaCentimetro"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculoSalario.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/exercicios-logica-de-progracao-java/CalculoSalario&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CalculoSalario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculoSalario" />
@@ -86,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727225341344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atualizando">
+      <option name="closed" value="true" />
+      <created>1727225804080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727225804080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio calculo salario finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio calculo salario finalizado" />
+    <MESSAGE value="atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
   </component>
 </project>
