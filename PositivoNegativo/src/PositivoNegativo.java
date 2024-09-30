@@ -10,12 +10,12 @@ public class PositivoNegativo {
 
         if (numero > 0) {
 
-            int a = numero;
-            System.out.println("Positivo "+a);
+
+            System.out.println("Positivo "+numero);
         }else {
 
-            int b = numero;
-            System.out.println("Negativo "+b);
+
+            System.out.println("Negativo "+numero);
         }
     }
 
