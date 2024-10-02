@@ -7,16 +7,21 @@ public class CalculoSalarioHoras {
 
         System.out.println("Informe as horas trabalhadas: ");
         double horasTrabalhadas = scan.nextDouble();
-        double salario = horasTrabalhadas *10;
-        System.out.printf("Salario: R$ %.2f%n",salario);
-        if (horasTrabalhadas > 50){
+        double salario = horasTrabalhadas * 10;
+
+        if (horasTrabalhadas > 50 ){
+
             double excendenteHoras = horasTrabalhadas -50;
-            double valorHoraExtra = excendenteHoras * 20;
+            double valorHoraexcedente = excendenteHoras *20;
+            double totalsalario = 500 + valorHoraexcedente ;
+
             System.out.printf("Horas exedentes: %.2f%n",excendenteHoras);
-            System.out.printf("Valor hora extra: R$ %.2f%n",valorHoraExtra);
-            System.out.printf("Salario total: R$ %.2f%n",valorHoraExtra+salario);
+            System.out.printf("Valor horas exedentes: %.2f%n",valorHoraexcedente);
+            System.out.printf("Valor horas exedentes: %.2f%n",totalsalario);
+
         }else {
-            System.out.println("Sem horas extras realizadas no referido mês!");
+            System.out.printf("Salario: R$ %.2f%n",salario);
+            System.out.println("Horas Excedentes:"+0);
         }
         }
     }
