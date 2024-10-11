@@ -8,7 +8,7 @@ public class VetorNumeroReal {
         Scanner scan = new Scanner(System.in);
         System.out.println("informe o códido númerico: 0, 1 ou 2");
         codigoNumerico = scan.nextInt();
-        if (codigoNumerico != 0) {
+        if (codigoNumerico != 0 && codigoNumerico <=2) {
             for (int i = 0; i < 5; i++) {
                 System.out.println("Informe os numeros reais separados por virgulas: ");
                 vetor[i] = scan.nextFloat();
