@@ -12,9 +12,4 @@ O objetivo deste repositório é oferecer uma coleção de exercícios variados,
 - Funções e recursividade.
 - Estruturas de dados simples (listas, pilhas, filas).
 
----
-
-## 📂 Estrutura do Repositório
-
-Os exercícios estão organizados por níveis de dificuldade e tópicos:
 
